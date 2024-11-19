@@ -31,14 +31,14 @@ data = pd.read_csv('heart.csv')
 # Libraries Used
 The following Python libraries are used in this project:
 
-pandas, numpy, matplotlib, seaborn, scikit-learn
+pandas, numpy, matplotlib, seaborn, scikit-learn.
 # Data Preprocessing
 Data preprocessing steps include handling missing values, feature scaling, and encoding categorical variables. The preprocessing steps are crucial to prepare the data for model training and evaluation.
 
 # Modeling
 Several machine learning models are trained and evaluated in this project, including but not limited to:
 
-Logistic Regression, Decision Trees, Random Forest, Support Vector Machine (SVM), K-Nearest Neighbors (KNN)
+Logistic Regression, Decision Trees, Random Forest, Support Vector Machine (SVM), K-Nearest Neighbors (KNN).
 # Evaluation
 The performance of the models is evaluated using various metrics such as accuracy, precision, recall, and F1-score. These metrics help in understanding the strengths and weaknesses of each model.
 
