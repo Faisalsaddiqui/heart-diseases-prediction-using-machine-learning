@@ -1,4 +1,4 @@
-# Heart-Diseases-Prediction-Using-Machine-Learning
+# Heart-Diseases-Prediction-Using-Machine-Learning ❤️🧠📊
 This project aims to predict heart diseases using machine learning techniques. The dataset used contains various health parameters which are used to train and evaluate the performance of different machine learning models.
 
 # Table of Contents
