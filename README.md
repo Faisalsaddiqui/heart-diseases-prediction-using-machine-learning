@@ -6,15 +6,15 @@ This project aims to predict heart diseases using machine learning techniques. T
 
 [Dataset](#Dataset)
 
-[Libraries Used](#Libraries_Used)
+[Libraries Used](#Libraries-Used)
 
-[Data Preprocessing](#Data_Preprocessing)
+[Data Preprocessing](#Data-Preprocessing)
 
 [Modeling](#Modeling)
 
 [Evaluation](#Evaluation)
 
-[How to Run](#How_to_Run)
+[How to Run](#How-to-Run)
 
 [Results](#Results)
 
