@@ -17,10 +17,9 @@ Heart disease is one of the leading causes of death worldwide. Early prediction 
 
 # Dataset
 The dataset used in this project is a publicly available heart disease dataset, which contains several health-related attributes. The dataset is imported using the following command:
-
-python
-Copy code
+```
 data = pd.read_csv('heart.csv')
+```
 # Libraries Used
 The following Python libraries are used in this project:
 
@@ -65,5 +64,3 @@ The results of the project, including the performance of different models and th
 
 # Contributing
 Contributions are welcome! Please fork the repository and submit a pull request with your changes. For major changes, please open an issue first to discuss what you would like to change.
-
-This README file provides a comprehensive overview of the project and instructions for running it. If there are any specific details or sections you would like to add, please let me know! ​​
