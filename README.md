@@ -44,21 +44,21 @@ The performance of the models is evaluated using various metrics such as accurac
 
 # How to Run
 Clone the repository:
-sh
-Copy code
+```
 git clone https://github.com/your-username/heart-disease-prediction.git
+```
 Navigate to the project directory:
-sh
-Copy code
+```
 cd heart-disease-prediction
+```
 Install the required libraries:
-sh
-Copy code
+```
 pip install -r requirements.txt
+```
 Run the Jupyter notebook:
-sh
-Copy code
+```
 jupyter notebook "Heart Diseases Prediction Using Machine Learning.ipynb"
+```
 # Results
 The results of the project, including the performance of different models and their respective evaluation metrics, are documented in the notebook. Visualizations and detailed explanations are provided to illustrate the findings.
 
