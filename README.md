@@ -38,11 +38,7 @@ Data preprocessing steps include handling missing values, feature scaling, and e
 # Modeling
 Several machine learning models are trained and evaluated in this project, including but not limited to:
 
-Logistic Regression
-Decision Trees
-Random Forest
-Support Vector Machine (SVM)
-K-Nearest Neighbors (KNN)
+Logistic Regression, Decision Trees, Random Forest, Support Vector Machine (SVM), K-Nearest Neighbors (KNN)
 # Evaluation
 The performance of the models is evaluated using various metrics such as accuracy, precision, recall, and F1-score. These metrics help in understanding the strengths and weaknesses of each model.
 
