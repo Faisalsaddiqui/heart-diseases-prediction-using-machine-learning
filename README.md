@@ -2,16 +2,16 @@
 This project aims to predict heart diseases using machine learning techniques. The dataset used contains various health parameters which are used to train and evaluate the performance of different machine learning models.
 
 # Table of Contents
-[Introduction]#introduction
-Dataset
-Libraries Used
-Data Preprocessing
-Modeling
-Evaluation
-How to Run
-Results
-Contributing
-License
+[Introduction](#introduction)
+[Dataset](#Dataset)
+[Libraries Used](#Libraries_Used)
+[Data Preprocessing](#Data_Preprocessing)
+[Modeling](#Modeling)
+[Evaluation](#Evaluation)
+[How to Run](#How_to_Run)
+[Results](#Results)
+[Contributing](#Contributing)
+
 # Introduction
 Heart disease is one of the leading causes of death worldwide. Early prediction of heart disease can significantly aid in providing timely treatment and saving lives. This project leverages machine learning algorithms to predict the likelihood of heart disease based on various health parameters.
 
