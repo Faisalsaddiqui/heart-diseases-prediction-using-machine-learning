@@ -3,13 +3,21 @@ This project aims to predict heart diseases using machine learning techniques. T
 
 # Table of Contents
 [Introduction](#introduction)
+
 [Dataset](#Dataset)
+
 [Libraries Used](#Libraries_Used)
+
 [Data Preprocessing](#Data_Preprocessing)
+
 [Modeling](#Modeling)
+
 [Evaluation](#Evaluation)
+
 [How to Run](#How_to_Run)
+
 [Results](#Results)
+
 [Contributing](#Contributing)
 
 # Introduction
