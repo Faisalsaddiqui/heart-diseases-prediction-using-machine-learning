@@ -52,19 +52,19 @@ Several machine learning models are trained and evaluated in this project, inclu
 The performance of the models is evaluated using various metrics such as accuracy, precision, recall, and F1-score. These metrics help in understanding the strengths and weaknesses of each model.
 
 ## How to Run
-Clone the repository:
+Clone the repository
 ```
 git clone https://github.com/your-username/heart-disease-prediction.git
 ```
-Navigate to the project directory:
+Navigate to the project directory
 ```
 cd heart-disease-prediction
 ```
-Install the required libraries:
+Install the required libraries
 ```
 pip install -r requirements.txt
 ```
-Run the Jupyter notebook:
+Run the Jupyter notebook
 ```
 jupyter notebook "Heart Diseases Prediction Using Machine Learning.ipynb"
 ```
