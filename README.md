@@ -37,7 +37,7 @@ The following Python libraries are used in this project:
 
 **matplotlib**
 
-**seaborn**
+- seaborn
 
 **scikit-learn**
 **Data Preprocessing**
