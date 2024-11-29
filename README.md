@@ -31,11 +31,11 @@ data = pd.read_csv('heart.csv')
 ## Libraries Used
 The following Python libraries are used in this project:
 
-**pandas**
+- pandas
 
-**numpy**
+- numpy
 
-**matplotlib**
+- matplotlib
 
 - seaborn
 
