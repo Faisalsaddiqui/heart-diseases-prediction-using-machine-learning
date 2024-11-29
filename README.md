@@ -32,9 +32,13 @@ data = pd.read_csv('heart.csv')
 The following Python libraries are used in this project:
 
 **pandas**
+
 **numpy**
+
 **matplotlib**
+
 **seaborn**
+
 **scikit-learn**
 **Data Preprocessing**
 Data preprocessing steps include handling missing values, feature scaling, and encoding categorical variables. The preprocessing steps are crucial to prepare the data for model training and evaluation.
