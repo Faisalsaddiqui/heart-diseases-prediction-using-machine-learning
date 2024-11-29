@@ -39,7 +39,7 @@ The following Python libraries are used in this project:
 
 - seaborn
 
-**scikit-learn**
+- scikit-learn
 **Data Preprocessing**
 Data preprocessing steps include handling missing values, feature scaling, and encoding categorical variables. The preprocessing steps are crucial to prepare the data for model training and evaluation.
 
